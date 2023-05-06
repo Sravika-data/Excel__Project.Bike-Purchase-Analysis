@@ -2,7 +2,7 @@
 The aim of this project is to analyze bike sales data to uncover insights that can inform business decisions by identifying trends and patterns in the data.
 
 ### Tool:
-Excel ![excel](https://user-images.githubusercontent.com/128244199/236636884-a2575e31-1d4e-4cee-9c16-f66395a8710e.png | width=100)
+Excel ![excel](https://user-images.githubusercontent.com/128244199/236636884-a2575e31-1d4e-4cee-9c16-f66395a8710e.png width="200" height="200")
 
 ### Steps:
 - Cleaned the data.
