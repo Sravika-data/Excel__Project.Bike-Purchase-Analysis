@@ -6,13 +6,9 @@ excel
 
 ### Steps:
 ⚫Cleaned the data.
-
 ⚫Replaced values of column gender and marital status.
-
 ⚫Calculated new column using built in functions.
-
 ⚫Built pivot tables and charts.
-
 ⚫Designed a Dashboard to present and visualize key insights and trends .
 
 ### Insights:
