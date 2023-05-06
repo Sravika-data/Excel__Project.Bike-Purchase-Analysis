@@ -13,6 +13,7 @@ excel
 
 ### Insights:
 📍 The average income of male who have purchased bike is greater than $60,000 while for women it is greater than $55,000.
+
 📍 The largest group of bike purchasers are middle-aged individuals between the ages of 31 and 54.
 
 📍 Bikes were predominantly purchased for commutes with distances between 0 and 1 mile.
